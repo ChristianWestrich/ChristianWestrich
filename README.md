@@ -79,7 +79,7 @@ I build systems from database modeling and REST API design all the way through t
 
 ---
 
-## 💬 Kontakt
+## 💬 Contact
 
 I’d love to discuss backend architecture, API design, or DevOps topics.
 Feel free to message me on [LinkedIn](https://www.linkedin.com/in/christian-westrich-3460a22b5/) or open an issue in one of my repos!
