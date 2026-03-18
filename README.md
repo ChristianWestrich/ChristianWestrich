@@ -118,20 +118,13 @@ Projektmanagement-Tool mit Drag-and-Drop, Task-Verwaltung und OAuth2/PKCE-Authen
 ## 📊 GitHub Stats
 
 <div align="center">
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/ChristianWestrich/ChristianWestrich/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/ChristianWestrich/ChristianWestrich/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/ChristianWestrich/ChristianWestrich/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+ 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChristianWestrich&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&count_private=true&include_all_commits=true)
+ 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianWestrich&layout=compact&theme=github_dark&hide_border=true)
+ 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ChristianWestrich&theme=github-dark-blue&hide_border=true)
+ 
 </div>
 
 ---
