@@ -131,8 +131,6 @@ Projektmanagement-Tool mit Drag-and-Drop, Task-Verwaltung und OAuth2/PKCE-Authen
 
 ## 🐍 Contributions
 
-<div align="center">
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -147,8 +145,6 @@ Projektmanagement-Tool mit Drag-and-Drop, Task-Verwaltung und OAuth2/PKCE-Authen
     src="https://raw.githubusercontent.com/ChristianWestrich/ChristianWestrich/output/github-contribution-grid-snake.svg"
   />
 </picture>
-
-</div>
 
 ---
 
