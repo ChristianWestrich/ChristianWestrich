@@ -73,7 +73,7 @@ Frontend-Companion zu Videoflix-Backend. HLS-Player-Integration, Video-Browse-UI
 
 ---
 
-### 💬 [dabubble](https://github.com/ChristianWestrich/dabubble)
+### 💬 [DABubble](https://github.com/ChristianWestrich/dabubble)
 > Slack-ähnliche Messaging-App · Angular · TypeScript · Firebase
 
 Echtzeit-Kommunikationsplattform mit Channel-System, Direktnachrichten und Thread-Funktionalität – gebaut mit Angular und Firebase als Backend.
@@ -88,7 +88,7 @@ Echtzeit-Kommunikationsplattform mit Channel-System, Direktnachrichten und Threa
 
 ---
 
-### 🌐 [portfolio](https://github.com/ChristianWestrich/portfolio)
+### 🌐 [Portfolio](https://github.com/ChristianWestrich/portfolio)
 > Persönliche Portfolio-Website · Angular · SCSS
 
 Meine persönliche Portfolio-Seite – gebaut mit Angular, GSAP-Animationen und einer sauberen SCSS-Architektur.
@@ -106,7 +106,7 @@ Ein vollständiges Jump-and-Run-Spiel im Browser, komplett in Vanilla JS mit obj
 
 ---
 
-### 🎨 [DAjoin](https://github.com/ChristianWestrich/DAjoin)
+### 🎨 [Join](https://github.com/ChristianWestrich/DAjoin)
 > Kanban-Board · Vanilla JS · CSS · REST API
 
 Projektmanagement-Tool mit Drag-and-Drop, Task-Verwaltung und OAuth2/PKCE-Authentifizierung – ohne externe Frontend-Frameworks.
@@ -118,13 +118,20 @@ Projektmanagement-Tool mit Drag-and-Drop, Task-Verwaltung und OAuth2/PKCE-Authen
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChristianWestrich&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianWestrich&layout=compact&theme=github_dark&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ChristianWestrich&theme=github-dark-blue&hide_border=true)
-
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/ChristianWestrich/ChristianWestrich/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/ChristianWestrich/ChristianWestrich/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/ChristianWestrich/ChristianWestrich/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 </div>
 
 ---
