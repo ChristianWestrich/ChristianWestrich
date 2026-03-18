@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, ich bin Christian Westrich 👋
+# Hi, i am Christian Westrich 👋
 
 **Full-Stack Developer · Django · REST APIs · TypeScript**
 
@@ -11,10 +11,10 @@
 
 ---
 
-## Über mich
+## About me
 
-Full-Stack Developer mit Schwerpunkt auf Backend-Architektur und skalierbare Webanwendungen.
-Ich baue Systeme von der Datenbankmodellierung über REST-API-Design bis hin zu containerisierten Deployments – und bringe gleichzeitig solide Frontend-Kenntnisse in TypeScript, Angular und Vanilla JS mit.
+Full-stack developer specializing in backend architecture and scalable web applications.
+I build systems from database modeling and REST API design all the way through to containerized deployments—while also bringing solid frontend expertise in TypeScript, Angular, and vanilla JavaScript.
 
 ---
 
@@ -43,75 +43,6 @@ Ich baue Systeme von der Datenbankmodellierung über REST-API-Design bis hin zu 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
----
-
-## 📂 Featured Projects
-
-### 🎬 [Videoflix-Backend](https://github.com/ChristianWestrich/Videoflix-Backend)
-> Video-Streaming-Plattform · Django · FFmpeg · HLS · Docker
-
-Django-Backend für eine Netflix-ähnliche Streaming-Plattform. Videos werden automatisch in mehrere Qualitätsstufen (480p / 720p / 1080p) umgewandelt und asynchron verarbeitet, ohne den Request-Zyklus zu blockieren.
-
-**Highlights:**
-- FFmpeg-Integration für HLS-Segmentierung (`.m3u8` + `.ts`)
-- Django RQ + Redis für asynchrone Task-Queue
-- Docker Compose: Web, Worker, Redis, PostgreSQL
-- Signal-basierter Task-Dispatch (`post_save` → `task.delay()`)
-- JWT-Authentifizierung mit httpOnly Cookies
-
-`Python` `Django` `DRF` `FFmpeg` `Django RQ` `Redis` `Docker` `PostgreSQL` `JWT`
-
----
-
-### 🎬 [Videoflix-Frontend](https://github.com/ChristianWestrich/Videoflix-Frontend)
-> Video-Streaming-Frontend · HTML · CSS · Vanilla JS
-
-Frontend-Companion zu Videoflix-Backend. HLS-Player-Integration, Video-Browse-UI und Authentifizierungsflow gegen die Django REST API.
-
-`HTML` `CSS` `JavaScript` `HLS.js`
-
----
-
-### 💬 [DABubble](https://github.com/ChristianWestrich/dabubble)
-> Slack-ähnliche Messaging-App · Angular · TypeScript · Firebase
-
-Echtzeit-Kommunikationsplattform mit Channel-System, Direktnachrichten und Thread-Funktionalität – gebaut mit Angular und Firebase als Backend.
-
-**Highlights:**
-- Angular Standalone Components & Signals
-- Firebase Realtime Database / Firestore
-- Authentifizierung via Firebase Auth
-- Responsive UI mit SCSS
-
-`TypeScript` `Angular` `Firebase` `SCSS`
-
----
-
-### 🌐 [Portfolio](https://github.com/ChristianWestrich/portfolio)
-> Persönliche Portfolio-Website · Angular · SCSS
-
-Meine persönliche Portfolio-Seite – gebaut mit Angular, GSAP-Animationen und einer sauberen SCSS-Architektur.
-
-`Angular` `SCSS` `TypeScript` `GSAP`
-
----
-
-### 🎮 [El-Pollo-Loco](https://github.com/ChristianWestrich/El-Pollo-Loco)
-> Jump-and-Run Browser Game · Vanilla JS · OOP
-
-Ein vollständiges Jump-and-Run-Spiel im Browser, komplett in Vanilla JS mit objektorientierter Architektur, Canvas-Rendering und Game Loop.
-
-`JavaScript` `Canvas` `OOP`
-
----
-
-### 🎨 [Join](https://github.com/ChristianWestrich/DAjoin)
-> Kanban-Board · Vanilla JS · CSS · REST API
-
-Projektmanagement-Tool mit Drag-and-Drop, Task-Verwaltung und OAuth2/PKCE-Authentifizierung – ohne externe Frontend-Frameworks.
-
-`Vanilla JS` `CSS` `OAuth2/PKCE`
 
 ---
 
@@ -150,11 +81,11 @@ Projektmanagement-Tool mit Drag-and-Drop, Task-Verwaltung und OAuth2/PKCE-Authen
 
 ## 💬 Kontakt
 
-Ich freue mich über Austausch zu Backend-Architektur, API-Design oder DevOps-Themen.
-Schreib mir gerne auf [LinkedIn](https://www.linkedin.com/in/christian-westrich-3460a22b5/) oder öffne ein Issue in einem meiner Repos!
+I’d love to discuss backend architecture, API design, or DevOps topics.
+Feel free to message me on [LinkedIn](https://www.linkedin.com/in/christian-westrich-3460a22b5/) or open an issue in one of my repos!
 
 ---
 
 <div align="center">
-  <sub>Gebaut mit 🐍 Python & ☕ viel Kaffee</sub>
+  <sub>Build with ❤️ & ☕ and lots of coffee</sub>
 </div>
