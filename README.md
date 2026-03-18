@@ -49,13 +49,13 @@ I build systems from database modeling and REST API design all the way through t
 ## 📊 GitHub Stats
 
 <div align="center">
- 
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChristianWestrich&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&count_private=true)
- 
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianWestrich&layout=compact&theme=github_dark&hide_border=true)
- 
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ChristianWestrich&theme=github-dark-blue&hide_border=true)
- 
+
 </div>
 
 ---
@@ -79,9 +79,70 @@ I build systems from database modeling and REST API design all the way through t
 
 ---
 
+## 🚀 Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### Join
+<a href="https://www.christian-westrich.de/projects/Join/index.html">
+  <img src="./assets/join.png" alt="Join" width="100%"/>
+</a>
+
+**Task manager** inspired by the Kanban System. Create and organize tasks using drag and drop functions, assign users and categories.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+[🌐 Live Demo](https://www.christian-westrich.de/projects/Join/index.html) · [📂 Repository](https://github.com/ChristianWestrich/DAjoin.git)
+
+</td>
+    <td width="50%" valign="top">
+
+### El Pollo Loco
+<a href="https://www.christian-westrich.de/projects/El%20Pollo%20Loco/index.html">
+  <img src="./assets/elpololoco.png" alt="El Polo Loco" width="100%"/>
+</a>
+
+A simple Jump-and-Run game based on an object-oriented approach. Help Pepe to find coins and chillisauce to fight against the killer hen.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+[🌐 Live Demo](https://www.christian-westrich.de/projects/El%20Pollo%20Loco/index.html) · [📂 Repository](https://github.com/ChristianWestrich/El-Pollo-Loco.git)
+
+</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+### DA Bubble
+<a href="https://www.christian-westrich.de/projects/DABubble/index.html">
+  <img src="./assets/DABubble.png" alt="DA Bubble" width="100%"/>
+</a>
+
+A powerful and user-friendly Slack clone that brings seamless team communication, collaboration, and organization to your fingertips.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white)
+
+[🌐 Live Demo](https://www.christian-westrich.de/projects/DABubble/index.html) · [📂 Repository](https://github.com/ChristianWestrich/dabubble.git)
+
+</td>
+    <td width="50%" valign="top"></td>
+  </tr>
+</table>
+
+---
+
 ## 💬 Contact
 
-I’d love to discuss backend architecture, API design, or DevOps topics.
+I'd love to discuss backend architecture, API design, or DevOps topics.
 Feel free to message me on [LinkedIn](https://www.linkedin.com/in/christian-westrich-3460a22b5/) or open an issue in one of my repos!
 
 ---
