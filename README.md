@@ -119,7 +119,7 @@ Projektmanagement-Tool mit Drag-and-Drop, Task-Verwaltung und OAuth2/PKCE-Authen
 
 <div align="center">
  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChristianWestrich&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&count_private=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChristianWestrich&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&count_private=true)
  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianWestrich&layout=compact&theme=github_dark&hide_border=true)
  
